@@ -1,0 +1,14 @@
+
+
++---------------------------+-------------------+----------------+
+|       Pizza Tabanı        | Ekstra Malzemeler |  Pizza Kenarı  |
++---------------------------+-------------------+----------------+
+| 1.margarita-->80TL        | zeytin            | 1.ince kenar   |
+| 2.vejetaryen pizza-->90TL | mantar            | 2.kalın kenar  |
+| 3.Bol Etli Pizza--130TL   | mısır             | 3.normal kenar |
+| 4.Ananaslı Pizza-->100TL  | sosis             |                |
+| 5.Akdeniz Pizza-->100TL   | bbq sos           |                |
+| ************************* | sucuk             |                |
+|                           |                   |                |
++---------------------------+-------------------+----------------+
+
